@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D7F727&width=435&lines=Hi%2C+I'm+Jagannadh+NSK+AI+%26+ML+Student+Java+Developer+Building+AI+Startups)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMAR123gh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KUMAR123gh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
