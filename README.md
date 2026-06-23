@@ -9,6 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KUMAR123gh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 My name is Jagannadh NSK, currently pursuing B.Tech degree in Computer Science and Engineering with a specialisation of Artifiical Intelligence and Machine Learning. I am a student driven by my goals. I like learning new tech and implementing them. I am currently proficient in Java, Python and Front-End Dev (HTML,CSS,JavaScript).
 
 - 🔭 I’m currently working on a few projects that help sharpen my skills.
